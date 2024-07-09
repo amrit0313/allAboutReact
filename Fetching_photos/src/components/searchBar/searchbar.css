@@ -1,0 +1,22 @@
+.search-bar-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 500px;
+    background-color: rgb(29, 52, 71);
+    margin: 20px;
+    
+}
+
+.form-ip{
+    padding: 5px 50px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 4px;
+    
+}
+
+form-ip:active{
+    border: 0px;
+}

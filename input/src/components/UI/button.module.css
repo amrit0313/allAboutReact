@@ -1,0 +1,18 @@
+.button{
+    margin:  20px 4px;
+    padding: 4px 20px;
+    font: inherit;
+    font-size: 1.5rem;
+    cursor: pointer;
+    border: 1px solid #4f005f;
+    background-color: #4f005f;
+    color: white;
+    border-radius: 6px;
+    box-shadow: 4px 2px 5px rgba(0, 0, 0, 0.479);
+}
+
+button:hover{
+    background-color: #741188;
+    border-color: #741188;
+    color: white;
+}

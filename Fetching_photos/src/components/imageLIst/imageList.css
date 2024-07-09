@@ -1,0 +1,12 @@
+.image-div{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 20px;
+    column-gap: 3rem;
+}
+
+.image-div img {
+    width: 100%;
+    height: auto;
+    object-fit: fill;
+}
